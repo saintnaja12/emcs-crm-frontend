@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "PlaceName": "Latrobe City, VIC, Australia",
+        "Latitude": "-38.233334",
+        "Longitude": "146.399994"
+    },
+    {
+        "id": 2,
+        "PlaceName": "Horsham, VIC, Australia",
+        "Latitude": "-36.716667",
+        "Longitude": "142.199997"
+    },
+    {
+        "id": 3,
+        "PlaceName": "Hamilton, VIC, Australia",
+        "Latitude": "-37.733334",
+        "Longitude": "142.016663"
+    },
+    {
+        "id": 4,
+        "PlaceName": "Geelong, VIC, Australia",
+        "Latitude": "-38.150002",
+        "Longitude": "144.350006"
+    },
+    {
+        "id": 5,
+        "PlaceName": "Frankston, VIC, Australia",
+        "Latitude": "-38.133331",
+        "Longitude": "145.116669"
+    }
+]

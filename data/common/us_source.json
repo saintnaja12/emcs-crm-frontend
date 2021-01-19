@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Call",
+        "val": "call"
+    },
+    {
+        "name": "Line",
+        "val": "line"
+    },
+    {
+        "name": "E-mail",
+        "val": "e-mail"
+    }
+]
